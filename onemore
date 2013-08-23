@@ -2,4 +2,9 @@ Success to push files to github
 try again
 
 Add from github
+<<<<<<< HEAD
 one more line
+=======
+
+second line add by web
+>>>>>>> cd149b8ff77b9f0a03f5b9740c1a0dcb5cade4fd
