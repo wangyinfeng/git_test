@@ -5,4 +5,5 @@ cd myhub
 
 alias l='ls -l'
 alias ll='ls -al'
+alias la='ls -a'
 alias ..='cd ..'
